@@ -176,8 +176,8 @@ $("head").prepend(ico_link);
     @media screen and (max-width: 820px) {
         #write{margin:20px 20px 20px 200px; padding: 20px 20px; font-size: 15px; line-height: 170%}
         .BlogAnchor {width: 180px !important}
-        .html_header span::before{content: "❖"; margin-left: 0}
-        .html_header span::after{content: "Diablo使用手册"; font-size: 15px;}
+        .html_header span::before{ margin-left: 0}
+        .html_header span::after{ font-size: 15px;}
         h2{ font-size: 30px; }
         h3{ font-size: 24px; }
     }
