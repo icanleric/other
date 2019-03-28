@@ -1,3 +1,4 @@
+## 步骤
 ### 1. 在 Typora 正文顶部引用
 ```
 <script type="text/javascript" src="2html/jquery-3.3.1.min.js"></script>
@@ -8,7 +9,14 @@
 
 ### 2. 然后用typora 导出为 html
 
--------------- 分割线 -------------------
+
+## 效果图
+
+
+![](https://github.com/icanleric/other/blob/master/PrtScn.png)
+
+
+## 用到的JS/CSS
 
 ### jquery可在官网下载
 
