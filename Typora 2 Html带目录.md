@@ -1,10 +1,10 @@
 ## 步骤
 ### 1. 在 Typora 正文顶部引用
-```
+
+```html
 <script type="text/javascript" src="2html/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="2html/2html.js"></script>
 <link rel="stylesheet" type="text/css" href="2html/style.css">
-
 ```
 
 ### 2. 然后用typora 导出为 html
