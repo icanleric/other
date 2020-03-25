@@ -7,6 +7,10 @@
 <link rel="stylesheet" type="text/css" href="2html/style.css">
 ```
 
+> **特别说明**
+> 可能大家用的markdown工具都不一样，也可以：
+> 先将md文件导出成html后，然后在html代码中加入以上三行js及css
+
 ### 2. 然后用typora 导出为 html
 
 
